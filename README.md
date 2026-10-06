@@ -27,7 +27,11 @@ for the field problems that started it and the full reasoning.
 
 ![Overview tab](docs/images/overview.png)
 
-![Top Actions tab](docs/images/topactions.png)
+| Top Actions | Assignments |
+|:---:|:---:|
+| ![Top Actions tab](docs/images/topactions.png) | ![Assignments tab](docs/images/assignments.png) |
+| **BitLocker** | **Autopilot builds** |
+| ![BitLocker tab](docs/images/bitlocker.png) | ![Autopilot builds](docs/images/autopilot_1.png) |
 
 See [Navigation](docs/04-navigation.md) for what each tab and sub-tab shows.
 
